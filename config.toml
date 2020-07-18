@@ -109,14 +109,14 @@ disqusShortname = "yourdiscussshortname"
             url = "about/"
 
             [[languages.en.menu.main]]
-            name = "CV"
+            name = "Research"
             weight = 2
-            url = "posts/"
+            url = "research/"
 
             [[languages.en.menu.main]]
-            name = "Research"
+            name = "CV"
             weight = 3
-            url = "projects/"
+            url = "cv/"
 
             [[languages.en.menu.main]]
             name = "Contact me"
@@ -138,19 +138,19 @@ disqusShortname = "yourdiscussshortname"
         [languages.pt-br.menu]
 
             [[languages.pt-br.menu.main]]
-            name = "Sobre"
+            name = "Lo que hago"
             weight = 1
             url = "about/"
 
             [[languages.pt-br.menu.main]]
-            name = "Blog"
+            name = "Investigacion"
             weight = 2
             url = "posts/"
 
             [[languages.pt-br.menu.main]]
-            name = "Proyectos"
+            name = "CV"
             weight = 3
-            url = "projects/"
+            url = "cv/"
 
             [[languages.pt-br.menu.main]]
             name = "Contacto"
