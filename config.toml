@@ -1,4 +1,5 @@
-baseURL = "https://tatianavelasco.netlify.app/"
+#baseURL = "https://tatianavelasco.netlify.app/"
+baseURL = "https://tativelasco.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Tatiana Velasco"
